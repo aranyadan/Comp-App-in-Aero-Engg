@@ -1,0 +1,3 @@
+Repo for storing programs and models for Computer Applications in Aerospace Engineering and Control Systems Lab.
+Neural Networks, simulink models.
+Aranya Dan
